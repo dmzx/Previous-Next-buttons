@@ -3,7 +3,7 @@
 	"type": "phpbb-extension",
 	"description": "Displays Previous / Next button in topic.",
 	"homepage": "http://www.dmzx-web.net",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"time": "2015-05-25",
 	"keywords": ["phpbb", "extension", "Previous / Next topic"],
 	"license": "GPL-2.0",
@@ -21,7 +21,7 @@
 	"extra": {
 		"display-name": "Previous / Next topic",
 		"soft-require": {
-			"phpbb/phpbb": ">=3.1.4-RC1,<3.2.*@dev"
+			"phpbb/phpbb": ">=3.1.0-RC5,<3.2.*@dev"
 		}
 	}
 }
