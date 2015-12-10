@@ -1,5 +1,7 @@
 # phpBB Previous / Next topic Extension
 
+[![Build Status](https://travis-ci.org/dmzx/Previous-Next-buttons.svg?branch=master)](https://travis-ci.org/dmzx/Previous-Next-buttons)
+
 ## Install
 
 1. Download the latest release.
